@@ -3,3 +3,6 @@ Emoji
 Tyoe option
 colors
 vibrant
+
+Dark Mode
+Video calls
